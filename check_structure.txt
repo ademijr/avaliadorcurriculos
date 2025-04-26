@@ -1,0 +1,26 @@
+Estrutura de pastas necessária para o projeto React:
+
+/public
+  - index.html (OBRIGATÓRIO)
+  - favicon.ico
+  - manifest.json
+  - robots.txt
+
+/src
+  - index.js (OBRIGATÓRIO)
+  - App.js (OBRIGATÓRIO)
+  - index.css
+  - /components
+    - WelcomeScreen.js
+    - FormScreen.js
+    - FileUploader.js
+    - LoadingScreen.js
+    - AnalysisScreen.js
+
+Arquivos na raiz:
+  - package.json (OBRIGATÓRIO)
+  - README.md
+  - .gitignore
+  - tailwind.config.js
+  - postcss.config.js
+  - vercel.json (opcional)
